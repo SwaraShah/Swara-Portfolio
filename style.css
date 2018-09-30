@@ -115,3 +115,9 @@ body {
 	float: right;
 }
 
+@media only screen and (min-width: 400px){
+	.logo {
+		width: 30%;
+	}
+	
+}
